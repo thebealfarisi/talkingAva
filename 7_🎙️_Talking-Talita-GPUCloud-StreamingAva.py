@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 client2 = OpenAI(
-    base_url = 'http://103.125.100.23/v1', # Ollama Server
+    base_url = '', # Ollama Server
     api_key='ollama', # required, but unused
     )
 
