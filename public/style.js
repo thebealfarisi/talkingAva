@@ -75,7 +75,7 @@ let sessionInfo = null;
 let peerConnection = null;
 
 const heygen_API = {
-  apiKey: 'ZmE3ZGE3MDYzMzlmNGU1MmE4MzY3YzZlNWMxZmM2OTctMTcxNjIwMzEyNw==',
+  apiKey: '',
   serverUrl: 'https://api.heygen.com',
 };
 
