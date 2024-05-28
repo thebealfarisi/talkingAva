@@ -105,7 +105,7 @@ def main():
     # st.sidebar.image(Image.open('talita.png'), caption='', width=100)
     # st.sidebar.title("API KEY CONFIGURATION")
     # api_key = st.sidebar.text_input("Enter your API key", type="password")
-    api_key = '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'
+    api_key = ''
 
     # st.image(Image.open('/Users/febyferdinansyah/Library/CloudStorage/OneDrive-Personal/6-My-Projects/AI/Streamlit Apps/AI Voice Assistant/talita.png'), caption='', width=100)
     st.header("🎙️ Talking Talita", anchor=False, divider="orange")
